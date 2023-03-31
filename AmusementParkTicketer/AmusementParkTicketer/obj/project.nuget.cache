@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WGmYyRIUWXXfYnLrzpleZvF7bijsp1vJvaozlrkBsR+Trj6Szs7XWi3g5uGaT4lBQloyStTgRnSEjTN54K6raw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mcnas\\source\\repos\\AmusementParkTicketer\\AmusementParkTicketer\\AmusementParkTicketer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcnas\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
